@@ -37,7 +37,7 @@ Yuxiang Zhang, Liang An, Tao Yu, xiu Li, Kun Li, Yebin Liu. "4D Association Grap
 
 @inproceedings{lightcap2021,
  title={Light-weight Multi-person Total Capture Using Sparse Multi-view Cameras},
- author={Yuxiang Zhang and Zhe Li and Liang An and Mengcheng Li and Tao Yu and Yebin Liu},
+ author={Zhang, Yuxiang and Li, Zhe and An, Liang and Li, Mengcheng and Yu, Tao and Liu, Yebin},
  year={2021},
  booktitle={IEEE International Conference on Computer Vision}
 }
