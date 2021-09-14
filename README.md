@@ -19,5 +19,26 @@ You can download the dataset in
 
 You can download the dataset in 
 ```
-https://cloud.tsinghua.edu.cn/f/30d94cac067442f2b925/?dl=1
+https://cloud.tsinghua.edu.cn/f/b8f1b0729fc142b2ad87/?dl=1
+```
+
+
+### Citation
+
+```
+Yuxiang Zhang, Liang An, Tao Yu, xiu Li, Kun Li, Yebin Liu. "4D Association Graph for Realtime Multi-person Motion Capture Using Multiple Video Cameras". arXiv 2020
+
+@InProceedings{20204DAssociation,
+  author = {Zhang, Yuxiang and An, Liang and Yu, Tao and Li, xiu and Li, Kun and Liu, Yebin},
+  title = {4D Association Graph for Realtime Multi-person Motion Capture Using Multiple Video Cameras},
+  booktitle = {IEEE International Conference on Computer Vision and Pattern Recognition, (CVPR)},
+  year={2020},
+}
+
+@inproceedings{lightcap2021,
+title={Light-weight Multi-person Total Capture Using Sparse Multi-view Cameras},
+author={Yuxiang Zhang and Zhe Li and Liang An and Mengcheng Li and Tao Yu and Yebin Liu},
+year={2021},
+booktitle={IEEE International Conference on Computer Vision}
+}
 ```
